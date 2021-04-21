@@ -13,7 +13,7 @@
   </em>
   <footer class="page-item">
     <a class="github footer-item" href="https://github.com/Martho42/Creative5">Github</a>
-    <div class='footer-item'>Hours spent: 2</div>
+    <div class='footer-item'>Hours spent: 1</div>
   </footer>
   <em>
     <hr>
